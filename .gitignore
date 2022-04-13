@@ -1,0 +1,5 @@
+Pipfile
+Pipfile.lock
+csv_files/old_website_links_reports/*.csv
+csv_files/*.csv
+_redirects
